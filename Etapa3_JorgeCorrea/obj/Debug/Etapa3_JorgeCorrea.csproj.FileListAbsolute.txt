@@ -1,0 +1,14 @@
+C:\Users\jorge\Desktop\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\obj\Debug\Etapa3_JorgeCorrea.csproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\obj\Debug\Etapa3_JorgeCorrea.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\bin\Debug\Etapa3_JorgeCorrea.exe.config
+C:\Users\jorge\Desktop\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\bin\Debug\Etapa3_JorgeCorrea.exe
+C:\Users\jorge\Desktop\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\bin\Debug\Etapa3_JorgeCorrea.pdb
+C:\Users\jorge\Desktop\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\obj\Debug\Etapa3_JorgeCorrea.exe
+C:\Users\jorge\Desktop\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\obj\Debug\Etapa3_JorgeCorrea.pdb
+G:\Mi unidad\Universidades\UNAD\Cursos CV\Programación\2022-1\Unidad 3 - Etapa 4 - Práctica\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\bin\Debug\Etapa3_JorgeCorrea.exe.config
+G:\Mi unidad\Universidades\UNAD\Cursos CV\Programación\2022-1\Unidad 3 - Etapa 4 - Práctica\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\bin\Debug\Etapa3_JorgeCorrea.exe
+G:\Mi unidad\Universidades\UNAD\Cursos CV\Programación\2022-1\Unidad 3 - Etapa 4 - Práctica\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\bin\Debug\Etapa3_JorgeCorrea.pdb
+G:\Mi unidad\Universidades\UNAD\Cursos CV\Programación\2022-1\Unidad 3 - Etapa 4 - Práctica\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\obj\Debug\Etapa3_JorgeCorrea.csproj.AssemblyReference.cache
+G:\Mi unidad\Universidades\UNAD\Cursos CV\Programación\2022-1\Unidad 3 - Etapa 4 - Práctica\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\obj\Debug\Etapa3_JorgeCorrea.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Universidades\UNAD\Cursos CV\Programación\2022-1\Unidad 3 - Etapa 4 - Práctica\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\obj\Debug\Etapa3_JorgeCorrea.exe
+G:\Mi unidad\Universidades\UNAD\Cursos CV\Programación\2022-1\Unidad 3 - Etapa 4 - Práctica\Etapa3_JorgeCorrea\Etapa3_JorgeCorrea\obj\Debug\Etapa3_JorgeCorrea.pdb
